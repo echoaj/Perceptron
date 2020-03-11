@@ -1,0 +1,13 @@
+﻿,tail/no tail,like mice?,male/female,big/small,bark/pur,play fetch?,brown?,output: dog/cat
+mini pinch,0,0,1,0,1,0,0,1
+golden retr,1,0,1,1,1,1,0,1
+bengal cat,1,1,0,0,0,0,1,0
+main coon,1,1,1,1,0,1,0,0
+Manchester Terrier,0,0,0,1,1,1,0,1
+pug,0,0,0,0,1,0,1,1
+husky,1,0,1,1,1,1,0,1
+shiba inu,1,0,0,1,1,1,1,1
+sphynx,1,1,1,0,0,0,0,0
+Highland Fold,1,0,1,0,0,0,1,0
+Ragdoll,1,1,0,0,0,0,0,0
+Bombay Katze,1,0,1,0,0,0,0,0
