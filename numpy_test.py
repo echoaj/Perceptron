@@ -1,3 +1,7 @@
+# Alex Joslin
+# Description: A neural network that predicts if an animal is a cat or a dog based on binary input
+# Date: March 16th, 2020
+
 import numpy as np
 import pickle
 import pandas as pd
